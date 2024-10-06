@@ -1,56 +1,48 @@
 body {
-    font-family: 'MS Sans Serif', Geneva, sans-serif;
-    background-color: #008080;
-    color: #000000;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+  align-items: center;
+  background-color: teal;
+  color: black;
+  display: flex;
+  font-family: sans-serif;
+  font-size: 2vmin;
+  hyphens: manual;
+  justify-content: center;
+  overflow-wrap: break-word;
 }
 
 main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
 }
 
 section {
-    max-width: 70%;
-    margin: 0 auto;
-    background-color: #C0C0C0;
-    border: 2px solid #000;
-    padding: 10px;
-    box-shadow: 5px 5px 0px #000;
-    margin-bottom: 20px;
+  background-color: silver;
+  border: 0.2vmin solid black;
+  box-shadow: 1vmin 1vmin 0 black;
+  margin: 1vmin auto;
+  padding: 0.2vmin;
+  width: 80vw;
 }
 
 table {
-    width: auto;
-    max-width: 100%;
-    border-collapse: collapse;
-    font-size: 1.2em;
-    background-color: #FFFFFF;
+  background-color: white;
+  border-collapse: collapse;
+  width: 100%;
 }
 
-th, td {
-    border: 1px solid black;
-    padding: 12px;
-    text-align: left;
-}
-
-.wide-content {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    word-break: break-all;
+th,
+td {
+  border: 0.1vmin solid black;
+  padding: 1.2vmin;
+  text-align: left;
 }
 
 th {
-    background-color: #000080;
-    color: white;
-    font-weight: bold;
-    text-align: center;
+  background-color: navy;
+  color: white;
+  font-weight: 700;
+  text-align: center;
 }
