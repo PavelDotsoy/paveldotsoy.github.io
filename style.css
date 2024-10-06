@@ -4,7 +4,7 @@ body {
   color: black;
   display: flex;
   font-family: sans-serif;
-  font-size: 2vmin;
+  font-size: 3vmin;
   hyphens: manual;
   justify-content: center;
   overflow-wrap: break-word;
@@ -22,9 +22,9 @@ section {
   background-color: silver;
   border: 0.2vmin solid black;
   box-shadow: 1vmin 1vmin 0 black;
-  margin: 1vmin auto;
+  margin: 2vmin auto;
   padding: 0.2vmin;
-  width: 80vw;
+  width: 65vw;
 }
 
 table {
@@ -36,7 +36,7 @@ table {
 th,
 td {
   border: 0.1vmin solid black;
-  padding: 1.2vmin;
+  padding: 0.5vmin 3.5vmin;
   text-align: left;
 }
 
@@ -45,4 +45,5 @@ th {
   color: white;
   font-weight: 700;
   text-align: center;
+  padding: 1.4vmin;
 }
