@@ -44,7 +44,7 @@ a:visited {
   font-family: var(--font-family);
   font-style: normal;
   font-weight: normal;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   color: #000;
   text-decoration: none;
   border-style: none;
@@ -59,7 +59,7 @@ a:visited {
 }
 
 .divider {
-  padding: 0 0.5rem;
+  padding: 0 1rem;
 }
 
 /* Page structure */
