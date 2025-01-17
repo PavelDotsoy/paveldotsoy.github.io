@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
     "woff2",
   ]);
   eleventyConfig.addPassthroughCopy("public");
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   eleventyConfig.addPlugin(pluginSEO, require("./src/_data/seo.json"));
 
