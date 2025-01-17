@@ -37,7 +37,6 @@ module.exports = function (eleventyConfig) {
         removeComments: true,
         collapseWhitespace: true,
         preserveLineBreaks: true,
-        conservativeCollapse: true,
       });
       return minified;
     }
