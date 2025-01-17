@@ -1,9 +1,9 @@
 /* Our default values set as CSS variables */
 :root {
-  --color-primary: #F0F2F0;
-  --color-secondary: #202523;
-  --color-tertiary: #CD5963;
-  --color-accent: #6EABC9;
+  --color-primary: GhostWhite;
+  --color-secondary: Charcoal;
+  --color-tertiary: IndianRed;
+  --color-accent: SteelBlue;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
   --font-family: "IBM Plex Sans";
@@ -59,7 +59,7 @@ a:visited {
 }
 
 .divider {
-  padding: 0 1rem;
+  padding: 0 .5rem;
 }
 
 /* Page structure */
