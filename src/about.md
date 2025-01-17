@@ -9,12 +9,12 @@ layout: layouts/page.njk
 - Developed integrations with front-end apps and external client systems.  
 
 ##### <i style="color:var(--color-tertiary)" class="fa-solid fa-comments">&nbsp;</i> Communication & Collaboration  
-- Communicate effectively with teammates, product owners, and client representatives.  
+- Communicating effectively with teammates, product owners, and client representatives.  
 - Experienced in remote work and asynchronous communication.  
 
 ##### <i style="color:var(--color-tertiary)" class="fa-solid fa-brain">&nbsp;</i> Problem Solving & Analysis  
-- Excel at fixing complex issues in multi-service applications.  
-- Analyze requirements, decompose tasks, and propose effective solutions.  
+- Excelling at fixing complex issues in multi-service applications.  
+- Analyzing requirements, decomposing tasks, and proposing effective solutions.  
 
 ##### <i style="color:var(--color-tertiary)" class="fa-solid fa-rocket">&nbsp;</i> Continuous Learning & Improvement  
 - Quick learner, ready to dive into any tech stack, familiar or not.  
@@ -30,14 +30,14 @@ layout: layouts/page.njk
 
 ##### <i style="color:var(--color-tertiary)" class="fa-solid fa-tools">&nbsp;</i> Sensible Passion for Technology  
 - Avid Hacker News reader, staying updated with industry trends and new tech.  
-- Favor sustainable, proven tech over fleeting trends and hype.  
+- Still, favoring sustainable, proven tech over fleeting trends and hype.  
 
 ##### <i style="color:var(--color-tertiary)" class="fa-solid fa-seedling">&nbsp;</i> Minimalist Efficiency & Organizational Mastery  
-- Thrive in minimalist, organized spaces and create order in work environments.  
-- Manage and organize information for ease of use by self and others.  
+- Thriving in minimalist, organized spaces and creating order in chaotic work environments.  
+- Managing and organizing information for ease of use by self and others.  
 
 ##### <i style="color:var(--color-tertiary)" class="fa-solid fa-puzzle-piece">&nbsp;</i> Navigating Neurodiversity with Pragmatism  
-- High-functioning ASD and ADHD, turning challenges into unique strengths.  
-- Develop pragmatic strategies to manage cognitive hurdles effectively.  
+- High-functioning ASD and ADHD, turning neural challenges into unique strengths.  
+- Developing pragmatic strategies to manage cognitive hurdles effectively.  
 
 ---
