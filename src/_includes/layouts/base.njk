@@ -1,36 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    
-    {# This is the base template for the site–other templates extend this one #}
-    
     <meta charset="utf-8" />
     <link rel="icon" href="/public/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Your new 11ty blog" />
     <link rel="stylesheet" type="text/css" href="/public/style.css" />
     <link rel="stylesheet" href="/public/fontawesome/css/fontawesome.css" />
     <link rel="stylesheet" href="/public/fontawesome/css/brands.css" />
     <link rel="stylesheet" href="/public/fontawesome/css/solid.css" />
+    {% seo "" %}
   </head>
   <body>
-  <main>
-    
-    {# Page or post content will appear here #}
-  
-    {{ content | safe }}
+    <main>
+      {{ content | safe }}
 
       <footer class="footer">
         <div class="links">
           <a href="/"><i class="fa-solid fa-fw fa-house"></i>&nbsp;Home</a>
           <span class="divider">|</span>
-          <a href="/posts"><i class="fa-solid fa-fw fa-newspaper"></i>&nbsp;Posts</a>
+          <a href="/posts"
+            ><i class="fa-solid fa-fw fa-newspaper"></i>&nbsp;Posts</a
+          >
           <span class="divider">|</span>
-          <a href="/about"><i class="fa-solid fa-fw fa-circle-info"></i>&nbsp;About</a>
+          <a href="/about"
+            ><i class="fa-solid fa-fw fa-circle-info"></i>&nbsp;About</a
+          >
         </div>
       </footer>
-    
-  </main>
-   
+    </main>
   </body>
 </html>

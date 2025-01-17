@@ -4,43 +4,40 @@ layout: layouts/page.njk
 
 ## About me
 
-#### 🕸️ **Web Development Expertise**
-- Engaged in API maintenance, refactoring, and major rewrites.
-- Developed integrations with front-end applications and external client systems.
+##### <i class="fa-solid fa-code">&nbsp;</i> Web Development Expertise  
+- Worked on API maintenance, refactoring, and major rewrites.  
+- Developed integrations with front-end apps and external client systems.  
 
-#### 💬 **Communication & Collaboration**
-- Strong communication skills, whether with teammates, product owners, or client representatives.
-- Experience in remote work and asynchronous communication.
+##### <i class="fa-solid fa-comments">&nbsp;</i> Communication & Collaboration  
+- Communicate effectively with teammates, product owners, and client representatives.  
+- Experienced in remote work and asynchronous communication.  
 
-#### 🧠 **Problem Solving & Analysis**
-- Excels at investigating and fixing complex issues in multi-service applications.
-- Skilled in analyzing requirements, decomposing tasks, and proposing solutions.
+##### <i class="fa-solid fa-brain">&nbsp;</i> Problem Solving & Analysis  
+- Excel at fixing complex issues in multi-service applications.  
+- Analyze requirements, decompose tasks, and propose effective solutions.  
 
-#### 🚀 **Continuous Learning & Improvement**
-- A quick learner, ready to dive into any technology stack, familiar or not.
-- Passionate about code quality and maintainability, improving both developer and user experience.
+##### <i class="fa-solid fa-rocket">&nbsp;</i> Continuous Learning & Improvement  
+- Quick learner, ready to dive into any tech stack, familiar or not.  
+- Passionate about code quality and improving developer and user experiences.  
 
-#### 🌍 **Global Communication Proficiency**
-- Fluent in English, adept at international communication, both written and verbal.
-- Comfortable understanding a wide range of accents.
+##### <i class="fa-solid fa-earth-americas">&nbsp;</i> Global Communication Proficiency  
+- Fluent in English and skilled in international communication, written and verbal.  
+- Comfortable understanding a wide variety of accents.  
 
-#### 🐧 **Love for all things Linux**
-- Linux user since 2017, experienced with a wide range of distributions, both server and desktop.
-- Enjoy working in Linux environments, particularly on the command line.
+##### <i class="fa-solid fa-terminal">&nbsp;</i> Love for all things Linux  
+- Linux user since 2017, experienced with server and desktop distributions.  
+- Enjoy working in Linux environments, especially on the command line.  
 
-#### 🛠️ **Sensible Passion for Technology**
-- An avid Hacker News reader, interested in new technologies and staying updated with industry trends.
-- Prefers tried-and-tested tech over fleeting fads, focusing on sustainable solutions.
+##### <i class="fa-solid fa-tools">&nbsp;</i> Sensible Passion for Technology  
+- Avid Hacker News reader, staying updated with industry trends and new tech.  
+- Favor sustainable, proven tech over fleeting trends and hype.  
 
-#### 🌱 **Minimalist Efficiency & Organizational Mastery**
-- Thrives in minimalist and organized spaces, always striving to tidy up environments.
-- Skilled in managing and organizing information for ease of use by self and others.
+##### <i class="fa-solid fa-seedling">&nbsp;</i> Minimalist Efficiency & Organizational Mastery  
+- Thrive in minimalist, organized spaces and create order in work environments.  
+- Manage and organize information for ease of use by self and others.  
 
-#### 🧩 **Navigating Neurodiversity with Pragmatism**
-- Diagnosed with ASD and ADHD, turning quirks into unique strengths.
-- Develops pragmatic strategies to manage cognitive challenges effectively.
+##### <i class="fa-solid fa-puzzle-piece">&nbsp;</i> Navigating Neurodiversity with Pragmatism  
+- High-functioning ASD and ADHD, turning challenges into unique strengths.  
+- Develop pragmatic strategies to manage cognitive hurdles effectively.  
 
 ---
-
-**Let’s connect and make some magic happen! ✨**
-
