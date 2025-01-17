@@ -3,7 +3,7 @@ layout: layouts/home.njk
 ---
 
 # <i class="fa-solid fa-house">&nbsp;</i> Home of Pavel
-##### <i style="color:var(--color-accent)" class="fa-solid fa-face-kiss">&nbsp;</i>Technical Problem Solver
+##### <i style="color:var(--color-accent)" class="fa-solid fa-face-kiss">&nbsp;</i>That's me, a technical problem solver
 
 - <i style="color:var(--color-accent)" class="fa-solid fa-puzzle-piece">&nbsp;</i> **Curious Mind**: Self-taught coder with foundation in tech & math. Eager to learn more.  
 - <i style="color:var(--color-accent)" class="fa-solid fa-screwdriver-wrench">&nbsp;</i> **Proven Experience**: 5+ years Python, 3.5+ years Django, 1+ years GoLang. [Resumé](http://localhost:8080/public/pavel-panichev-backend-dev.pdf) here.  
