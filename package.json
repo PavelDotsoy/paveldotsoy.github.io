@@ -1,6 +1,6 @@
 {
   "name": "paveldotsoy.github.io",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Simple landing page and blog",
   "main": "index.js",
   "scripts": {
